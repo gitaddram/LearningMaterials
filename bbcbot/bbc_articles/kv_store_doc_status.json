@@ -1,0 +1,684 @@
+{
+  "doc-00e9cc7bafa46ecef94ad6249b35d251": {
+    "content_summary": "{\n    \"title\": \"'Looking for my spy': The jokes Americans and Chinese are sharing on 'alternative Ti...",
+    "content_length": 10655,
+    "status": "processed",
+    "created_at": "2025-01-17T15:58:01.659302",
+    "updated_at": "2025-01-17T15:58:30.118128",
+    "chunks_count": 3
+  },
+  "doc-1a6eae22297879aba29486c1f7e4841d": {
+    "content_summary": "{\n    \"title\": \"A million-dollar challenge to crack the script of early Indians\",\n    \"text\": \"Every...",
+    "content_length": 9916,
+    "status": "processed",
+    "created_at": "2025-01-17T15:58:30.136017",
+    "updated_at": "2025-01-17T15:59:19.066525",
+    "chunks_count": 3
+  },
+  "doc-5b464eea03e7bf20fd8e6bbac675dec8": {
+    "content_summary": "{\n    \"title\": \"Three reasons Trump tariffs aren't China's only problem\",\n    \"text\": \"China's econo...",
+    "content_length": 8986,
+    "status": "processed",
+    "created_at": "2025-01-17T15:59:19.080498",
+    "updated_at": "2025-01-17T15:59:48.051245",
+    "chunks_count": 2
+  },
+  "doc-07996101a68c06e663db83af87ef869c": {
+    "content_summary": "{\n    \"title\": \"Australian influencer charged with poisoning her baby\",\n    \"text\": \"An Australian i...",
+    "content_length": 2170,
+    "status": "processed",
+    "created_at": "2025-01-17T15:59:48.069061",
+    "updated_at": "2025-01-17T16:00:28.277902",
+    "chunks_count": 1
+  },
+  "doc-80fd80141dd291fef9c9d378c2b29819": {
+    "content_summary": "{\n    \"title\": \"Mark Carney, the 'unreliable boyfriend' who ran UK's central bank\",\n    \"text\": \"The...",
+    "content_length": 5470,
+    "status": "processed",
+    "created_at": "2025-01-17T16:00:28.296700",
+    "updated_at": "2025-01-17T16:00:57.604978",
+    "chunks_count": 2
+  },
+  "doc-f191853ecf29670ab816ef70cba1a070": {
+    "content_summary": "{\n    \"title\": \"How did we reach the Israel-Hamas ceasefire deal in Gaza?\",\n    \"text\": \"Israel and ...",
+    "content_length": 7158,
+    "status": "processed",
+    "created_at": "2025-01-17T16:00:57.626121",
+    "updated_at": "2025-01-17T16:01:37.481729",
+    "chunks_count": 2
+  },
+  "doc-90c95ac2e54750adfcabd8d758369b5d": {
+    "content_summary": "{\n    \"title\": \"Toyota unit to settle emissions scandal for $1.6bn\",\n    \"text\": \"Toyota subsidiary ...",
+    "content_length": 4205,
+    "status": "processed",
+    "created_at": "2025-01-17T16:01:37.507662",
+    "updated_at": "2025-01-17T16:02:01.131797",
+    "chunks_count": 1
+  },
+  "doc-5aad555b70e0888aa4f8787fe1db1642": {
+    "content_summary": "{\n    \"title\": \"They hired Banksy for £50 then painted over his mural\",\n    \"text\": \"For years peopl...",
+    "content_length": 8771,
+    "status": "processed",
+    "created_at": "2025-01-17T16:02:01.162996",
+    "updated_at": "2025-01-17T16:02:26.078750",
+    "chunks_count": 2
+  },
+  "doc-30e4aaf9621959f03e82d810b9e48bea": {
+    "content_summary": "{\n    \"title\": \"Planet-warming gas levels rose more than ever in 2024\",\n    \"text\": \"Levels of the m...",
+    "content_length": 7956,
+    "status": "processed",
+    "created_at": "2025-01-17T16:02:26.107599",
+    "updated_at": "2025-01-17T16:02:57.053551",
+    "chunks_count": 2
+  },
+  "doc-d10ede9ccbb2b3090c440f2e8a4c156d": {
+    "content_summary": "{\n    \"title\": \"Apple halts AI news alerts after errors\",\n    \"text\": \"Apple has suspended a new art...",
+    "content_length": 4179,
+    "status": "processed",
+    "created_at": "2025-01-17T16:02:57.086015",
+    "updated_at": "2025-01-17T16:03:16.653972",
+    "chunks_count": 1
+  },
+  "doc-ad083730fe0b8a40182dbb2a7cdd4417": {
+    "content_summary": "{\n    \"title\": \"Germany to shoot down drones near military sites\",\n    \"text\": \"Germany's cabinet ha...",
+    "content_length": 4611,
+    "status": "processed",
+    "created_at": "2025-01-17T16:03:16.690468",
+    "updated_at": "2025-01-17T16:03:39.850921",
+    "chunks_count": 1
+  },
+  "doc-207f4845760f93e851a014a71bb3e011": {
+    "content_summary": "{\n    \"title\": \"What happens if TikTok is banned?\",\n    \"text\": \"TikTok will be banned in the US on ...",
+    "content_length": 10956,
+    "status": "processed",
+    "created_at": "2025-01-17T16:03:39.890458",
+    "updated_at": "2025-01-17T16:04:04.612100",
+    "chunks_count": 3
+  },
+  "doc-b1f4fe8aa3f37277997269d394983b0b": {
+    "content_summary": "{\n    \"title\": \"SpaceX Starship test fails after Texas launch\",\n    \"text\": \"The latest test of Spac...",
+    "content_length": 4767,
+    "status": "processed",
+    "created_at": "2025-01-17T16:04:34.246463",
+    "updated_at": "2025-01-17T16:05:01.051663",
+    "chunks_count": 2
+  },
+  "doc-febcb1c76bca1a8de311f33b75c63789": {
+    "content_summary": "{\n    \"title\": \"Netanyahu's office says hostage deal now agreed\",\n    \"text\": \"The office of Israeli...",
+    "content_length": 6628,
+    "status": "processed",
+    "created_at": "2025-01-17T16:14:37.186858",
+    "updated_at": "2025-01-17T16:15:06.845694",
+    "chunks_count": 2
+  },
+  "doc-068220fbc3a46ad26990a97d85caea0c": {
+    "content_summary": "{\n    \"title\": \"Mark Carney runs for leader of Canada's Liberal Party\",\n    \"text\": \"After months of...",
+    "content_length": 5212,
+    "status": "processed",
+    "created_at": "2025-01-17T16:15:06.945332",
+    "updated_at": "2025-01-17T16:15:32.343665",
+    "chunks_count": 1
+  },
+  "doc-e6d7226042331b8c218b96fa9a70c666": {
+    "content_summary": "{\n    \"title\": \"Justin Baldoni hits back at co-star Blake Lively in $400m lawsuit\",\n    \"text\": \"Act...",
+    "content_length": 4924,
+    "status": "processed",
+    "created_at": "2025-01-17T16:15:32.452734",
+    "updated_at": "2025-01-17T16:16:00.417952",
+    "chunks_count": 2
+  },
+  "doc-3fc05e3a760bdfea253e473b1fa32282": {
+    "content_summary": "{\n    \"title\": \"AI Brad Pitt dupes French woman out of €830,000\",\n    \"text\": \"A French woman who wa...",
+    "content_length": 6646,
+    "status": "processed",
+    "created_at": "2025-01-17T16:16:00.527971",
+    "updated_at": "2025-01-17T16:16:24.248392",
+    "chunks_count": 2
+  },
+  "doc-621e0ac8559e11fd44532705dc83d7d7": {
+    "content_summary": "{\n    \"title\": \"Ukraine launches largest attack of war so far, Kyiv claims\",\n    \"text\": \"Ukraine st...",
+    "content_length": 7406,
+    "status": "processed",
+    "created_at": "2025-01-17T16:17:44.650738",
+    "updated_at": "2025-01-17T16:18:16.114655",
+    "chunks_count": 2
+  },
+  "doc-ed3e5fd2301d4041336d31c54f566588": {
+    "content_summary": "{\n    \"title\": \"UK pledges support for Ukraine with 100-year pact\",\n    \"text\": \"Sir Keir Starmer ha...",
+    "content_length": 8578,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.752139",
+    "updated_at": "2025-01-17T15:22:18.752307"
+  },
+  "doc-d10265eb44098e6bc918da0ef16a2bea": {
+    "content_summary": "{\n    \"title\": \"'We sing to them': LA stables turn Noah's Ark for fire rescue animals\",\n    \"text\": ...",
+    "content_length": 6887,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.754762",
+    "updated_at": "2025-01-17T15:22:18.754908"
+  },
+  "doc-f0573444adf72e2452d2f33757fcf808": {
+    "content_summary": "{\n    \"title\": \"Onboard aid convoy on its way to offer hope for Gaza\",\n    \"text\": \"Ahead through hi...",
+    "content_length": 7367,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.757320",
+    "updated_at": "2025-01-17T15:22:18.757437"
+  },
+  "doc-b9c0e6f42332e97fa29baf79a2dcc78d": {
+    "content_summary": "{\n    \"title\": \"Actor and TV personality Paul Danan dies at 46\",\n    \"text\": \"Former Hollyoaks actor...",
+    "content_length": 9038,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.759363",
+    "updated_at": "2025-01-17T15:22:18.759513"
+  },
+  "doc-67cb4b6b6df45151e62a9eb11c890652": {
+    "content_summary": "{\n    \"title\": \"Trump names Gibson, Stallone and Voight Hollywood ambassadors\",\n    \"text\": \"US Pres...",
+    "content_length": 6511,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.761476",
+    "updated_at": "2025-01-17T15:22:18.761660"
+  },
+  "doc-8d33ec66242adf589bc930dd11d1516f": {
+    "content_summary": "{\n    \"title\": \"Tanzania denies suspected Marburg outbreak after WHO alert\",\n    \"text\": \"Tanzania h...",
+    "content_length": 5166,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.764606",
+    "updated_at": "2025-01-17T15:22:18.764756"
+  },
+  "doc-23ff22b14b22d189c8cbbb750157c8f5": {
+    "content_summary": "{\n    \"title\": \"Rise of vaccine distrust - why more of us are questioning jabs\",\n    \"text\": \"Covid ...",
+    "content_length": 17886,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.766882",
+    "updated_at": "2025-01-17T15:22:18.767024"
+  },
+  "doc-c136107c01ca6dc940314530d17c79f2": {
+    "content_summary": "{\n    \"title\": \"Power lines, hikers, arson: Inside the effort to uncover what sparked LA's fires\",\n ...",
+    "content_length": 12387,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.769174",
+    "updated_at": "2025-01-17T15:22:18.769322"
+  },
+  "doc-87cdc714154808ca516826097fee33ff": {
+    "content_summary": "{\n    \"title\": \"No convictions for breaching sanctions on Russia\",\n    \"text\": \"The UK has not carri...",
+    "content_length": 5863,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.771736",
+    "updated_at": "2025-01-17T15:22:18.771871"
+  },
+  "doc-9a9cbc78604d065e589d84e3539474fc": {
+    "content_summary": "{\n    \"title\": \"US FDA officially authorises Zyn nicotine pouches for sale\",\n    \"text\": \"The US Foo...",
+    "content_length": 3883,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.773744",
+    "updated_at": "2025-01-17T15:22:18.773870"
+  },
+  "doc-626ff141a02199263b7aa5a1158458e6": {
+    "content_summary": "{\n    \"title\": \"Record label hits back at 'illogical' Drake lawsuit\",\n    \"text\": \"Universal Music G...",
+    "content_length": 5233,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.777684",
+    "updated_at": "2025-01-17T15:22:18.777838"
+  },
+  "doc-444d040fc2d65229e0efd80e51af886b": {
+    "content_summary": "{\n    \"title\": \"Women held keys to land and wealth in Celtic Britain\",\n    \"text\": \"Women in Britain...",
+    "content_length": 7611,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.780431",
+    "updated_at": "2025-01-17T15:22:18.780594"
+  },
+  "doc-810c4bdb89b86d33d0ae07fff6f96b9c": {
+    "content_summary": "{\n    \"title\": \"Bollywood star Saif Ali Khan out of danger after being stabbed\",\n    \"text\": \"Popula...",
+    "content_length": 6541,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.782689",
+    "updated_at": "2025-01-17T15:22:18.782820"
+  },
+  "doc-0459398f3dd97b8af131575f332bce09": {
+    "content_summary": "{\n    \"title\": \"Warnings of stowaway snakes and tree-frogs hiding in pot plants\",\n    \"text\": \"Frogs...",
+    "content_length": 5596,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.784572",
+    "updated_at": "2025-01-17T15:22:18.784687"
+  },
+  "doc-ea31207a35148c9bbb37f8c395bbae82": {
+    "content_summary": "{\n    \"title\": \"Nepal's leader says it has too many tigers. Does it?\",\n    \"text\": \"Nepal has been c...",
+    "content_length": 7988,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.786584",
+    "updated_at": "2025-01-17T15:22:18.786740"
+  },
+  "doc-294ce9ec92009b07a446ab83ee8bbd10": {
+    "content_summary": "{\n    \"title\": \"Donald Trump's and JD Vance's official portraits released\",\n    \"text\": \"The officia...",
+    "content_length": 4500,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.788815",
+    "updated_at": "2025-01-17T15:22:18.788949"
+  },
+  "doc-9450c680ecff5e96c4668d9aac056845": {
+    "content_summary": "{\n    \"title\": \"Twin Peaks film director David Lynch dies at 78\",\n    \"text\": \"David Lynch, theAmeri...",
+    "content_length": 4576,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.792638",
+    "updated_at": "2025-01-17T15:22:18.792756"
+  },
+  "doc-4a83e7eff4e768e5c8ee7c37111e7d0f": {
+    "content_summary": "{\n    \"title\": \"Israel delays vote to approve Gaza ceasefire deal\",\n    \"text\": \"Israeli Prime Minis...",
+    "content_length": 7978,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.796552",
+    "updated_at": "2025-01-17T15:22:18.796679"
+  },
+  "doc-be230fd03888538d11052ae20a44e35b": {
+    "content_summary": "{\n    \"title\": \"Baby-killer case, police brutality and the long wait for Kenyan justice\",\n    \"text\"...",
+    "content_length": 10757,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.798744",
+    "updated_at": "2025-01-17T15:22:18.798883"
+  },
+  "doc-b993416f41140708884364cfa9c26dc4": {
+    "content_summary": "{\n    \"title\": \"Israel has changed since Donald Trump's last term – has he?\",\n    \"text\": \"Donald Tr...",
+    "content_length": 16523,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.800790",
+    "updated_at": "2025-01-17T15:22:18.800921"
+  },
+  "doc-d7233c9507eae8532234705f3c8301e0": {
+    "content_summary": "{\n    \"title\": \"JD Vance: the 'never Trump guy' who's about to become vice-president\",\n    \"text\": \"...",
+    "content_length": 19610,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.805410",
+    "updated_at": "2025-01-17T15:22:18.805546"
+  },
+  "doc-c9d640d9e51de60f0e240d41035b2c31": {
+    "content_summary": "{\n    \"title\": \"Strong winds weaken in LA, giving respite to weary firefighters\",\n    \"text\": \"Firef...",
+    "content_length": 6636,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.807281",
+    "updated_at": "2025-01-17T15:22:18.807404"
+  },
+  "doc-bb6b3f0ed37b95796bda4f5599e4fa44": {
+    "content_summary": "{\n    \"title\": \"'I had a love-hate relationship with my 'mini Monet' moniker'\",\n    \"text\": \"\\\"The t...",
+    "content_length": 11621,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.809362",
+    "updated_at": "2025-01-17T15:22:18.809507"
+  },
+  "doc-9c3f282ca2c45c8df28e2106c8734275": {
+    "content_summary": "{\n    \"title\": \"All porn sites must 'robustly' verify UK user ages by July\",\n    \"text\": \"All websit...",
+    "content_length": 5984,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.811673",
+    "updated_at": "2025-01-17T15:22:18.811854"
+  },
+  "doc-1ef74afc27dc8a6f553c6cc9d7afdd7a": {
+    "content_summary": "{\n  \"doc-00e9cc7bafa46ecef94ad6249b35d251\": {\n    \"content_summary\": \"{\\n    \\\"title\\\": \\\"'Looking f...",
+    "content_length": 14240,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.730714",
+    "updated_at": "2025-01-17T15:22:18.730842"
+  },
+  "doc-e8ed9a0595ba3c42c4625f59095b8599": {
+    "content_summary": "{\"embedding_dim\": 1536, \"data\": [], \"matrix\": \"\"}",
+    "content_length": 49,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.794392",
+    "updated_at": "2025-01-17T15:22:18.794523"
+  },
+  "doc-99914b932bd37a50b983c5e7c90ae93b": {
+    "content_summary": "{}",
+    "content_length": 2,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.802618",
+    "updated_at": "2025-01-17T15:22:18.802886"
+  },
+  "doc-f7cec226c66bec53cd2a5567b413fa9b": {
+    "content_summary": "{\n  \"local\": {\n    \"dff15171f51b3820de972d60088a9261\": {\n      \"return\": \"I'm sorry, but I don't hav...",
+    "content_length": 2306,
+    "status": "processing",
+    "created_at": "2025-01-17T15:22:18.775757",
+    "updated_at": "2025-01-17T15:22:18.775910"
+  },
+  "doc-6ddfe59627b812789c58f2ef640ec68b": {
+    "content_summary": "A looming TikTok ban has connected Chinese and American citizens like never before, as they swap jok...",
+    "content_length": 6578,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.774606",
+    "updated_at": "2025-01-17T15:51:38.774639"
+  },
+  "doc-a15f7031eada54d26fb22a797afbfff6": {
+    "content_summary": "Every week, Rajesh PN Rao, a computer scientist, gets emails from people claiming they've cracked an...",
+    "content_length": 6025,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.784476",
+    "updated_at": "2025-01-17T15:51:38.784538"
+  },
+  "doc-9b46d21decab487c860ed7e6aad3127d": {
+    "content_summary": "China's economy rebounded in the last three months of last year, allowing the government to meet its...",
+    "content_length": 6017,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.787040",
+    "updated_at": "2025-01-17T15:51:38.787075"
+  },
+  "doc-da3beb6e243eb8841dc7062540f9d0ad": {
+    "content_summary": "An Australian influencer has been charged with poisoning her baby girl to elicit donations and boost...",
+    "content_length": 1708,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.789110",
+    "updated_at": "2025-01-17T15:51:38.789145"
+  },
+  "doc-51170a7e3843fed56a44990be0df16c5": {
+    "content_summary": "The former Bank of England boss, Mark Carney, is now running for the Liberal leadership in his nativ...",
+    "content_length": 3442,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.791329",
+    "updated_at": "2025-01-17T15:51:38.791363"
+  },
+  "doc-1c5e387d785a7120fb7bd53df144c2ac": {
+    "content_summary": "Israel and Hamas have agreed to a Gaza ceasefire and hostage release deal, the US and mediators Qata...",
+    "content_length": 4306,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.793666",
+    "updated_at": "2025-01-17T15:51:38.793703"
+  },
+  "doc-a6490ab009c5f5313fc6584d2fb9ae76": {
+    "content_summary": "Toyota subsidiary Hino Motors has agreed to pay $1.6bn (£1.3bn) and plead guilty to deceiving US reg...",
+    "content_length": 2306,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.796313",
+    "updated_at": "2025-01-17T15:51:38.796361"
+  },
+  "doc-e9cda00fb775fbe55e34eb6bf8bd0ce7": {
+    "content_summary": "For years people have tried - and failed - to uncover details about Bristol's most famous, yet anony...",
+    "content_length": 4724,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.798545",
+    "updated_at": "2025-01-17T15:51:38.798582"
+  },
+  "doc-91f2153d673c99ff096e009647d623e5": {
+    "content_summary": "Levels of the most significant planet-warming gas in our atmosphere rose more quickly than ever prev...",
+    "content_length": 4550,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.800653",
+    "updated_at": "2025-01-17T15:51:38.800689"
+  },
+  "doc-286f04d1c6d35116ea9256c763f937c6": {
+    "content_summary": "Apple has suspended a new artificial intelligence (AI) feature that drew criticism and complaints fo...",
+    "content_length": 2477,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.802609",
+    "updated_at": "2025-01-17T15:51:38.802638"
+  },
+  "doc-5d75fe2443ed0901989737f56c3dfa2f": {
+    "content_summary": "Germany's cabinet has decided to authorise the army to shoot down suspicious drones seen near milita...",
+    "content_length": 2963,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.804450",
+    "updated_at": "2025-01-17T15:51:38.804511"
+  },
+  "doc-089adfb25edc252eeadb2a38ca23fe12": {
+    "content_summary": "TikTok will be banned in the US on 19 January - unless the Supreme Court accepts alast ditch legal b...",
+    "content_length": 8346,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.807529",
+    "updated_at": "2025-01-17T15:51:38.807573"
+  },
+  "doc-d41d8cd98f00b204e9800998ecf8427e": {
+    "content_summary": "",
+    "content_length": 0,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.957261",
+    "updated_at": "2025-01-17T15:51:38.957289"
+  },
+  "doc-e39cf0dab8686b5d692a1a6af8674ff9": {
+    "content_summary": "The latest test of Space X's giant Starship rocket has failed, minutes after launch. Officials at El...",
+    "content_length": 2933,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.811992",
+    "updated_at": "2025-01-17T15:51:38.812029"
+  },
+  "doc-1bb883f9e8268ea7cc26279d30b30907": {
+    "content_summary": "The office of Israeli Prime Minister Benjamin Netanyahu says a \"deal to release the hostages\" has be...",
+    "content_length": 4144,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.899579",
+    "updated_at": "2025-01-17T15:51:38.899610"
+  },
+  "doc-60fd02f5410ac6abf0efc012a5aa0a35": {
+    "content_summary": "After months of speculation about his political ambitions, former Bank of Canada and Bank of England...",
+    "content_length": 4700,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.901584",
+    "updated_at": "2025-01-17T15:51:38.901620"
+  },
+  "doc-75008480681dfd5a9fc495050fcbd3c9": {
+    "content_summary": "Actor and director Justin Baldoni has hit back at Blake Lively, his co-star in the film It Ends With...",
+    "content_length": 2377,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.903802",
+    "updated_at": "2025-01-17T15:51:38.903838"
+  },
+  "doc-842404b36199da8038e135a542021b17": {
+    "content_summary": "A French woman who was conned out of €830,000 (£700,000; $850,000) by scammers posing as actor Brad ...",
+    "content_length": 4725,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.905706",
+    "updated_at": "2025-01-17T15:51:38.905739"
+  },
+  "doc-901743fe35cd0d2cc2799e5ea6dbca13": {
+    "content_summary": "Ukraine struck several targets deep inside Russia on Tuesday in what it says is its \"most massive\" a...",
+    "content_length": 5196,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.909606",
+    "updated_at": "2025-01-17T15:51:38.909632"
+  },
+  "doc-0a475d16af19f5d0eb5a9a40d6b3d7ab": {
+    "content_summary": "Sir Keir Starmer has pledged to put Ukraine in the \"strongest possible position\" on a trip to Kyiv w...",
+    "content_length": 4814,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.912979",
+    "updated_at": "2025-01-17T15:51:38.913008"
+  },
+  "doc-c9d80f17d5bb620a6e55ef99ea7842a5": {
+    "content_summary": "The trailers arrived all at once, carrying hundreds of horses fleeing the Eaton and Palisades fires ...",
+    "content_length": 4030,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.914961",
+    "updated_at": "2025-01-17T15:51:38.915010"
+  },
+  "doc-27e1d79d5244e6690ffd6c6d49251a34": {
+    "content_summary": "Ahead through his windscreen, and behind in his rear view mirror, Mustafa al Qadri can see the rest ...",
+    "content_length": 4743,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.916900",
+    "updated_at": "2025-01-17T15:51:38.916932"
+  },
+  "doc-22d3a4bbcf493194876bcf05632c8996": {
+    "content_summary": "Former Hollyoaks actor Paul Danan, who was also known for reality TV shows like Celebrity Love Islan...",
+    "content_length": 6115,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.918992",
+    "updated_at": "2025-01-17T15:51:38.919023"
+  },
+  "doc-291223bab9a8fdc02e3ce480475aa636": {
+    "content_summary": "US President-elect Donald Trump has appointed three film stars to be special ambassadors tasked with...",
+    "content_length": 4505,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.920778",
+    "updated_at": "2025-01-17T15:51:38.920808"
+  },
+  "doc-8561a567c929077189a84a80c750f265": {
+    "content_summary": "Tanzania has dismissed a World Health Organisation (WHO) report of a suspected new outbreak of the E...",
+    "content_length": 2800,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.922479",
+    "updated_at": "2025-01-17T15:51:38.922505"
+  },
+  "doc-5dcff806cb04db457bd471d805cf57aa": {
+    "content_summary": "Covid vaccines saved lives. Lots of them. Research by the World Health Organization (WHO) now puts t...",
+    "content_length": 13241,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.925095",
+    "updated_at": "2025-01-17T15:51:38.925127"
+  },
+  "doc-d8bcc0e5755f09fc33c2193d7e16aa2f": {
+    "content_summary": "The hiking trail through Temescal Canyon in western Los Angeles is a favourite of locals. Towering a...",
+    "content_length": 9281,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.927133",
+    "updated_at": "2025-01-17T15:51:38.927162"
+  },
+  "doc-d95293f90c121b6088909c09303d8858": {
+    "content_summary": "The UK has not carried out a single conviction for breaches of Russian sanctions, the National Crime...",
+    "content_length": 3932,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.928867",
+    "updated_at": "2025-01-17T15:51:38.928894"
+  },
+  "doc-11f9737e8c3d39d0851ad35f403ed713": {
+    "content_summary": "The US Food and Drug Administration (FDA) has authorised Zyn nicotine pouches to be sold to as a too...",
+    "content_length": 2121,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.930991",
+    "updated_at": "2025-01-17T15:51:38.931026"
+  },
+  "doc-ae3c7c7eb034cc01dbaee7f2f9f6d7ed": {
+    "content_summary": "Universal Music Group has fired back at Drake's attempt to sue it over the release of Kendrick Lamar...",
+    "content_length": 2571,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.935817",
+    "updated_at": "2025-01-17T15:51:38.935850"
+  },
+  "doc-308d3fbedc03393120a1a595f8270088": {
+    "content_summary": "Women in Britain 2,000 years ago appear to have passed on land and wealth to daughters not sons as c...",
+    "content_length": 4475,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.937862",
+    "updated_at": "2025-01-17T15:51:38.937891"
+  },
+  "doc-97eb98a4069f2ca0db4ab6284c4a10ec": {
+    "content_summary": "Popular Bollywood actor Saif Ali Khan has undergone surgery and is out of danger after he was stabbe...",
+    "content_length": 3225,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.939687",
+    "updated_at": "2025-01-17T15:51:38.939715"
+  },
+  "doc-88d7a56485b1d3067762e250df0db553": {
+    "content_summary": "Frogs, lizards, snakes, spiders and other insect pests are being transported across the world on cut...",
+    "content_length": 2266,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.941567",
+    "updated_at": "2025-01-17T15:51:38.941659"
+  },
+  "doc-8d2d93314c425f61e8dba64d5d371317": {
+    "content_summary": "Nepal has been celebrated globally for tripling its tiger population in a decade - but Prime Ministe...",
+    "content_length": 5247,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.943772",
+    "updated_at": "2025-01-17T15:51:38.943805"
+  },
+  "doc-a2577414d55251164fe53d495844cfc2": {
+    "content_summary": "The official portraits of US President-elect Donald Trump and his second-in-command JD Vance have be...",
+    "content_length": 1801,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.945521",
+    "updated_at": "2025-01-17T15:51:38.945552"
+  },
+  "doc-b0cc2191f90c092f9a48f941b6b1baef": {
+    "content_summary": "David Lynch, theAmerican filmmaker whose works include the surrealist cult classics Mulholland Drive...",
+    "content_length": 3013,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.947496",
+    "updated_at": "2025-01-17T15:51:38.947524"
+  },
+  "doc-cff1532f63d2e245f2bb873dfdca8a4e": {
+    "content_summary": "Israeli Prime Minister Benjamin Netanyahu has delayed a cabinet vote to approve the Gaza ceasefire d...",
+    "content_length": 4992,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.951036",
+    "updated_at": "2025-01-17T15:51:38.951067"
+  },
+  "doc-909ddfaa0beaeb9cbe11f0bfaab958ee": {
+    "content_summary": "Seven years after their baby daughter was killed during a brutal midnight operation by police in Ken...",
+    "content_length": 6622,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.953398",
+    "updated_at": "2025-01-17T15:51:38.953428"
+  },
+  "doc-2b8d752c8902b02e0e73530410e4e178": {
+    "content_summary": "Donald Trump has made an impact on the Middle East even before he sits down in the Oval Office to st...",
+    "content_length": 11640,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.955379",
+    "updated_at": "2025-01-17T15:51:38.955407"
+  },
+  "doc-8afc405aa858969a233d9d398adb5609": {
+    "content_summary": "“I’m a 'never Trump' guy. I never liked him.” “My god what an idiot.” “I find him reprehensible.” Th...",
+    "content_length": 11453,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.959347",
+    "updated_at": "2025-01-17T15:51:38.959387"
+  },
+  "doc-e4da57efb5f2374970ee34b4d1b01100": {
+    "content_summary": "Firefighters battling two fires that have wreaked destruction across Los Angeles for nine days have ...",
+    "content_length": 4431,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.961676",
+    "updated_at": "2025-01-17T15:51:38.961705"
+  },
+  "doc-5a4def9f63df954174c6ca20a04ea6b9": {
+    "content_summary": "\"The times were crazy back then. I'm glad it's sort of quietened down a bit and, you know, I'm just ...",
+    "content_length": 5518,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.963501",
+    "updated_at": "2025-01-17T15:51:38.963531"
+  },
+  "doc-0c89405c1078110c27efe7bfedb74501": {
+    "content_summary": "All websites on which pornographic material can be found, including social media platforms, must int...",
+    "content_length": 4066,
+    "status": "processing",
+    "created_at": "2025-01-17T15:51:38.965388",
+    "updated_at": "2025-01-17T15:51:38.965418"
+  },
+  "doc-fc3a9c29645aa44646527dddda641014": {
+    "content_summary": "{\n  \"doc-00e9cc7bafa46ecef94ad6249b35d251\": {\n    \"content_summary\": \"{\\n    \\\"title\\\": \\\"'Looking f...",
+    "content_length": 29791,
+    "status": "processed",
+    "created_at": "2025-01-17T16:04:04.653111",
+    "updated_at": "2025-01-17T16:04:34.191243",
+    "chunks_count": 10
+  },
+  "doc-36d233f656bf260dd19a20b6e242b326": {
+    "content_summary": "{\"embedding_dim\": 1536, \"data\": [{\"__id__\": \"chunk-6bb0a9d5358f9d1bcbc7a8b5dbbd082a\", \"__created_at_...",
+    "content_length": 289952,
+    "status": "failed",
+    "created_at": "2025-01-17T16:05:01.110985",
+    "updated_at": "2025-01-17T16:14:37.077057",
+    "chunks_count": 181,
+    "error": "Error code: 400 - {'error': {'message': \"This model's maximum context length is 8192 tokens, however you requested 10331 tokens (10331 in your prompt; 0 for the completion). Please reduce your prompt; or completion length.\", 'type': 'invalid_request_error', 'param': None, 'code': None}}"
+  },
+  "doc-8e3bce9df96c4e5b0aa5c4dba555f533": {
+    "content_summary": "{\n  \"chunk-6bb0a9d5358f9d1bcbc7a8b5dbbd082a\": {\n    \"tokens\": 1200,\n    \"content\": \"{\\n    \\\"title\\\"...",
+    "content_length": 164758,
+    "status": "processed",
+    "created_at": "2025-01-17T16:16:24.362078",
+    "updated_at": "2025-01-17T16:17:44.503612",
+    "chunks_count": 42
+  },
+  "doc-5a0f7fe9ab9fbe811ccacbcf18e337f9": {
+    "content_summary": "{\"embedding_dim\": 1536, \"data\": [{\"__id__\": \"ent-0fff96cab541f9d30c61fbed6293aa53\", \"__created_at__\"...",
+    "content_length": 7345903,
+    "status": "processing",
+    "created_at": "2025-01-17T16:18:16.299279",
+    "updated_at": "2025-01-17T16:18:18.533551",
+    "chunks_count": 4579
+  },
+  "doc-34fdad7f49e9911828e474a00242fce1": {
+    "content_summary": "{\n  \"doc-00e9cc7bafa46ecef94ad6249b35d251\": {\n    \"content_summary\": \"{\\n    \\\"title\\\": \\\"'Looking f...",
+    "content_length": 31698,
+    "status": "processing",
+    "created_at": "2025-01-17T17:32:42.892718",
+    "updated_at": "2025-01-17T17:32:43.113526",
+    "chunks_count": 11
+  }
+}

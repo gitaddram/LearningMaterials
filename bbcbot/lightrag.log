@@ -1,0 +1,183 @@
+2025-01-17 15:58:01,656 - lightrag - INFO - Load KV json_doc_status_storage with 0 data
+2025-01-17 15:58:01,656 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-01-17 15:58:01,656 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-17 15:58:01,657 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-17 15:58:01,657 - lightrag - INFO - Loaded graph from /Users/ram/bbcbot/bbc_articles/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-17 15:58:01,658 - lightrag - INFO - Loaded document status storage with 89 records
+2025-01-17 15:58:01,659 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 15:58:01,872 - lightrag - INFO - Inserting 3 vectors to chunks
+2025-01-17 15:58:25,290 - lightrag - INFO - Inserting 38 vectors to entities
+2025-01-17 15:58:27,786 - lightrag - INFO - Inserting 29 vectors to relationships
+2025-01-17 15:58:30,124 - lightrag - INFO - Writing graph with 38 nodes, 29 edges
+2025-01-17 15:58:30,136 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 15:58:30,139 - lightrag - INFO - Inserting 3 vectors to chunks
+2025-01-17 15:59:14,357 - lightrag - INFO - Inserting 62 vectors to entities
+2025-01-17 15:59:16,607 - lightrag - INFO - Inserting 27 vectors to relationships
+2025-01-17 15:59:19,077 - lightrag - INFO - Writing graph with 97 nodes, 55 edges
+2025-01-17 15:59:19,080 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 15:59:19,083 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-01-17 15:59:43,587 - lightrag - INFO - Inserting 37 vectors to entities
+2025-01-17 15:59:45,837 - lightrag - INFO - Inserting 14 vectors to relationships
+2025-01-17 15:59:48,064 - lightrag - INFO - Writing graph with 133 nodes, 69 edges
+2025-01-17 15:59:48,069 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 15:59:48,071 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-01-17 16:00:24,742 - lightrag - INFO - Inserting 13 vectors to entities
+2025-01-17 16:00:26,767 - lightrag - INFO - Inserting 11 vectors to relationships
+2025-01-17 16:00:28,292 - lightrag - INFO - Writing graph with 146 nodes, 80 edges
+2025-01-17 16:00:28,296 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:00:28,299 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-01-17 16:00:52,994 - lightrag - INFO - Inserting 20 vectors to entities
+2025-01-17 16:00:55,467 - lightrag - INFO - Inserting 16 vectors to relationships
+2025-01-17 16:00:57,620 - lightrag - INFO - Writing graph with 164 nodes, 96 edges
+2025-01-17 16:00:57,626 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:00:57,628 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-01-17 16:01:32,283 - lightrag - INFO - Inserting 36 vectors to entities
+2025-01-17 16:01:34,869 - lightrag - INFO - Inserting 32 vectors to relationships
+2025-01-17 16:01:37,501 - lightrag - INFO - Writing graph with 198 nodes, 128 edges
+2025-01-17 16:01:37,507 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:01:37,510 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-01-17 16:01:57,568 - lightrag - INFO - Inserting 20 vectors to entities
+2025-01-17 16:01:59,777 - lightrag - INFO - Inserting 7 vectors to relationships
+2025-01-17 16:02:01,156 - lightrag - INFO - Writing graph with 217 nodes, 135 edges
+2025-01-17 16:02:01,163 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:02:01,166 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-01-17 16:02:21,627 - lightrag - INFO - Inserting 21 vectors to entities
+2025-01-17 16:02:24,136 - lightrag - INFO - Inserting 18 vectors to relationships
+2025-01-17 16:02:26,100 - lightrag - INFO - Writing graph with 238 nodes, 153 edges
+2025-01-17 16:02:26,107 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:02:26,110 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-01-17 16:02:52,360 - lightrag - INFO - Inserting 40 vectors to entities
+2025-01-17 16:02:55,034 - lightrag - INFO - Inserting 31 vectors to relationships
+2025-01-17 16:02:57,077 - lightrag - INFO - Writing graph with 277 nodes, 184 edges
+2025-01-17 16:02:57,086 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:02:57,088 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-01-17 16:03:13,147 - lightrag - INFO - Inserting 13 vectors to entities
+2025-01-17 16:03:15,154 - lightrag - INFO - Inserting 11 vectors to relationships
+2025-01-17 16:03:16,681 - lightrag - INFO - Writing graph with 289 nodes, 195 edges
+2025-01-17 16:03:16,690 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:03:16,692 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-01-17 16:03:36,616 - lightrag - INFO - Inserting 24 vectors to entities
+2025-01-17 16:03:38,473 - lightrag - INFO - Inserting 8 vectors to relationships
+2025-01-17 16:03:39,881 - lightrag - INFO - Writing graph with 312 nodes, 203 edges
+2025-01-17 16:03:39,890 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:03:39,894 - lightrag - INFO - Inserting 3 vectors to chunks
+2025-01-17 16:04:00,049 - lightrag - INFO - Inserting 44 vectors to entities
+2025-01-17 16:04:02,632 - lightrag - INFO - Inserting 15 vectors to relationships
+2025-01-17 16:04:04,643 - lightrag - INFO - Writing graph with 352 nodes, 218 edges
+2025-01-17 16:04:04,653 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:04:04,662 - lightrag - INFO - Inserting 10 vectors to chunks
+2025-01-17 16:04:29,030 - lightrag - INFO - Inserting 122 vectors to entities
+2025-01-17 16:04:31,757 - lightrag - INFO - Inserting 70 vectors to relationships
+2025-01-17 16:04:34,232 - lightrag - INFO - Writing graph with 470 nodes, 286 edges
+2025-01-17 16:04:34,246 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:04:34,249 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-01-17 16:04:56,912 - lightrag - INFO - Inserting 23 vectors to entities
+2025-01-17 16:04:59,020 - lightrag - INFO - Inserting 19 vectors to relationships
+2025-01-17 16:05:01,096 - lightrag - INFO - Writing graph with 492 nodes, 303 edges
+2025-01-17 16:05:01,111 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:05:01,209 - lightrag - INFO - Inserting 181 vectors to chunks
+2025-01-17 16:14:36,313 - lightrag - INFO - Inserting 955 vectors to entities
+2025-01-17 16:14:37,085 - lightrag - ERROR - Failed to process document doc-36d233f656bf260dd19a20b6e242b326: Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens, however you requested 10331 tokens (10331 in your prompt; 0 for the completion). Please reduce your prompt; or completion length.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+Traceback (most recent call last):
+  File "/Users/ram/bbcbot/LightRAG/lightrag/lightrag.py", line 463, in ainsert
+    raise e
+  File "/Users/ram/bbcbot/LightRAG/lightrag/lightrag.py", line 422, in ainsert
+    maybe_new_kg = await extract_entities(
+  File "/Users/ram/bbcbot/LightRAG/lightrag/operate.py", line 545, in extract_entities
+    await entity_vdb.upsert(data_for_vdb)
+  File "/Users/ram/bbcbot/LightRAG/lightrag/storage.py", line 146, in upsert
+    embeddings_list = await asyncio.gather(*embedding_tasks)
+  File "/Users/ram/bbcbot/LightRAG/lightrag/storage.py", line 138, in wrapped_task
+    result = await self.embedding_func(batch)
+  File "/Users/ram/bbcbot/LightRAG/lightrag/utils.py", line 132, in wait_func
+    result = await func(*args, **kwargs)
+  File "/Users/ram/bbcbot/LightRAG/lightrag/utils.py", line 71, in __call__
+    return await self.func(*args, **kwargs)
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/site-packages/tenacity/asyncio/__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/site-packages/tenacity/asyncio/__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/site-packages/tenacity/asyncio/__init__.py", line 153, in iter
+    result = await action(retry_state)
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/site-packages/tenacity/_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/site-packages/tenacity/__init__.py", line 398, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/concurrent/futures/_base.py", line 439, in result
+    return self.__get_result()
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/concurrent/futures/_base.py", line 391, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/site-packages/tenacity/asyncio/__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+  File "/Users/ram/bbcbot/LightRAG/lightrag/llm.py", line 904, in openai_embedding
+    response = await openai_async_client.embeddings.create(
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/site-packages/openai/resources/embeddings.py", line 236, in create
+    return await self._post(
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/site-packages/openai/_base_client.py", line 1849, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/site-packages/openai/_base_client.py", line 1543, in request
+    return await self._request(
+  File "/opt/anaconda3/envs/chatbot_env/lib/python3.9/site-packages/openai/_base_client.py", line 1644, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens, however you requested 10331 tokens (10331 in your prompt; 0 for the completion). Please reduce your prompt; or completion length.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-01-17 16:14:37,155 - lightrag - INFO - Writing graph with 1453 nodes, 482 edges
+2025-01-17 16:14:37,186 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:14:37,189 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-01-17 16:15:02,924 - lightrag - INFO - Inserting 32 vectors to entities
+2025-01-17 16:15:05,040 - lightrag - INFO - Inserting 17 vectors to relationships
+2025-01-17 16:15:06,914 - lightrag - INFO - Writing graph with 1476 nodes, 498 edges
+2025-01-17 16:15:06,945 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:15:06,947 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-01-17 16:15:28,801 - lightrag - INFO - Inserting 25 vectors to entities
+2025-01-17 16:15:30,818 - lightrag - INFO - Inserting 6 vectors to relationships
+2025-01-17 16:15:32,421 - lightrag - INFO - Writing graph with 1492 nodes, 503 edges
+2025-01-17 16:15:32,452 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:15:32,455 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-01-17 16:15:55,376 - lightrag - INFO - Inserting 36 vectors to entities
+2025-01-17 16:15:58,265 - lightrag - INFO - Inserting 16 vectors to relationships
+2025-01-17 16:16:00,495 - lightrag - INFO - Writing graph with 1526 nodes, 518 edges
+2025-01-17 16:16:00,527 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:16:00,530 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-01-17 16:16:20,314 - lightrag - INFO - Inserting 24 vectors to entities
+2025-01-17 16:16:22,338 - lightrag - INFO - Inserting 14 vectors to relationships
+2025-01-17 16:16:24,327 - lightrag - INFO - Writing graph with 1550 nodes, 531 edges
+2025-01-17 16:16:24,362 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:16:24,394 - lightrag - INFO - Inserting 42 vectors to chunks
+2025-01-17 16:17:34,529 - lightrag - INFO - Inserting 533 vectors to entities
+2025-01-17 16:17:40,993 - lightrag - INFO - Inserting 357 vectors to relationships
+2025-01-17 16:17:44,609 - lightrag - INFO - Writing graph with 1831 nodes, 804 edges
+2025-01-17 16:17:44,650 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:17:44,653 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-01-17 16:18:11,536 - lightrag - INFO - Inserting 38 vectors to entities
+2025-01-17 16:18:13,725 - lightrag - INFO - Inserting 16 vectors to relationships
+2025-01-17 16:18:16,225 - lightrag - INFO - Writing graph with 1861 nodes, 817 edges
+2025-01-17 16:18:16,299 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 16:18:18,534 - lightrag - INFO - Inserting 4579 vectors to chunks
+2025-01-17 17:32:42,701 - lightrag - INFO - Load KV json_doc_status_storage with 0 data
+2025-01-17 17:32:42,728 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-01-17 17:32:42,729 - lightrag - INFO - Load KV full_docs with 20 data
+2025-01-17 17:32:42,731 - lightrag - INFO - Load KV text_chunks with 86 data
+2025-01-17 17:32:42,834 - lightrag - INFO - Loaded graph from /Users/ram/bbcbot/bbc_articles/graph_chunk_entity_relation.graphml with 1861 nodes, 817 edges
+2025-01-17 17:32:42,886 - lightrag - INFO - Loaded document status storage with 93 records
+2025-01-17 17:32:42,887 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,888 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,888 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,889 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,889 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,890 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,890 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,890 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,891 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,891 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,892 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,892 - lightrag - INFO - All documents have been processed or are duplicates
+2025-01-17 17:32:42,892 - lightrag - INFO - Processing 1 new unique documents
+2025-01-17 17:32:43,115 - lightrag - INFO - Inserting 11 vectors to chunks
+2025-01-17 17:33:08,198 - lightrag - INFO - Load KV json_doc_status_storage with 0 data
+2025-01-17 17:33:08,226 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-01-17 17:33:08,227 - lightrag - INFO - Load KV full_docs with 20 data
+2025-01-17 17:33:08,229 - lightrag - INFO - Load KV text_chunks with 86 data
+2025-01-17 17:33:08,341 - lightrag - INFO - Loaded graph from /Users/ram/bbcbot/bbc_articles/graph_chunk_entity_relation.graphml with 1861 nodes, 817 edges
+2025-01-17 17:33:08,393 - lightrag - INFO - Loaded document status storage with 94 records
+2025-01-17 17:33:09,550 - lightrag - INFO - Truncate 48 to 3 chunks
